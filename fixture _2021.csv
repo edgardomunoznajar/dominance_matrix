@@ -1,0 +1,265 @@
+Round,Date,Home,Away Team,Crowd,ResultH,ResultA,Goals
+1,3/18/2023,Richmond,Carlton,49218,105,80,J. Riewoldt 4
+1,3/19/2023,Collingwood,Western Bulldogs,46051,53,69,-
+1,3/20/2023,Melbourne,Fremantle,21365,80,58,M. Taberner 3
+1,3/20/2023,Adelaide,Geelong,26985,103,91,T. Walker 5
+1,3/20/2023,Brisbane,Sydney,22762,94,125,-
+1,3/20/2023,Essendon,Hawthorn,25128,91,92,D. Moore 3
+1,3/21/2023,North Melbourne,Port Adelaide,13050,65,117,O. Fantasia 4
+1,3/21/2023,West Coast,Gold Coast,38493,83,58,O. Allen 4
+1,3/21/2023,GWS,St Kilda,5014,78,86,"T. Membrey 3
+H. Himmelberg 3"
+2,3/25/2023,Carlton,Collingwood,51723,85,106,"H. McKay 4
+J. De Goey 4"
+2,3/26/2023,Geelong,Brisbane,20070,81,80,E. Hipwood 4
+2,3/27/2023,Sydney,Adelaide,23946,121,88,T. Walker 6
+2,3/27/2023,Port Adelaide,Essendon,29978,119,65,"C. Dixon 4
+M. Georgiades 4"
+2,3/27/2023,Gold Coast,North Melbourne,6661,98,39,"B. King 3
+I. Rankine 3"
+2,3/27/2023,St Kilda,Melbourne,25903,73,91,J. Steele 3
+2,3/28/2023,Hawthorn,Richmond,41051,49,78,J. Riewoldt 4
+2,3/28/2023,Fremantle,GWS,27625,87,56,L. Schultz 3
+2,3/28/2023,Western Bulldogs,West Coast,21391,100,93,J. Kennedy 4
+3,4/1/2023,Collingwood,Brisbane,28057,72,73,J. Daniher 3
+3,4/2/2023,North Melbourne,Western Bulldogs,28483,39,167,J. Bruce 10
+3,4/2/2023,Adelaide,Gold Coast,30175,95,85,T. Walker 6
+3,4/3/2023,Richmond,Sydney,43637,72,117,T. Papley 4
+3,4/3/2023,Essendon,St Kilda,29234,143,68,C. Hooker 5
+3,4/3/2023,West Coast,Port Adelaide,42090,108,71,J. Kennedy 4
+3,4/4/2023,Carlton,Fremantle,24551,109,64,H. McKay 7
+3,4/4/2023,GWS,Melbourne,9563,68,102,T. Greene 5
+3,4/5/2023,Geelong,Hawthorn,50030,69,64,-
+4,4/8/2023,Sydney,Essendon,28039,83,80,"C. Hooker 3
+J. Stringer 3
+L. Franklin 3"
+4,4/9/2023,Port Adelaide,Richmond,33742,79,77,J. Riewoldt 3
+4,4/10/2023,Western Bulldogs,Brisbane,7387,73,54,T. English 3
+4,4/10/2023,St Kilda,West Coast,16710,102,82,M. King 5
+4,4/10/2023,Collingwood,GWS,29866,60,90,T. Greene 5
+4,4/10/2023,Gold Coast,Carlton,11618,59,70,"M. Murphy 2
+H. McKay 2
+A. Sexton 2"
+4,4/11/2023,North Melbourne,Adelaide,13479,68,109,-
+4,4/11/2023,Fremantle,Hawthorn,29490,96,81,"S. Darcy 3
+D. Moore 3"
+4,4/11/2023,Melbourne,Geelong,33728,85,60,B. Fritsch 4
+5,4/15/2023,St Kilda,Richmond,32056,48,134,J. Riewoldt 5
+5,4/16/2023,West Coast,Collingwood,54159,103,76,"J. Darling 5
+O. Allen 5"
+5,4/17/2023,Western Bulldogs,Gold Coast,18920,118,56,"M. Bontempelli 3
+J. Corbett 3"
+5,4/17/2023,Sydney,GWS,33541,69,71,L. Franklin 5
+5,4/17/2023,Carlton,Port Adelaide,32893,68,96,"R. Gray 3
+M. Georgiades 3"
+5,4/17/2023,Brisbane,Essendon,23544,102,45,C. Hooker 4
+5,4/18/2023,Adelaide,Fremantle,31454,72,84,M. Taberner 4
+5,4/18/2023,Hawthorn,Melbourne,36337,54,104,"J. Melksham 3
+E. Langdon 3"
+5,4/18/2023,Geelong,North Melbourne,21282,77,47,-
+6,4/23/2023,GWS,Western Bulldogs,10064,65,104,T. Greene 4
+6,4/24/2023,Gold Coast,Sydney,9819,100,60,B. King 5
+6,4/24/2023,Geelong,West Coast,21282,136,39,M. Duncan 4
+6,4/24/2023,Carlton,Brisbane,29576,85,103,H. McKay 6
+6,4/24/2023,Fremantle,North Melbourne,,99,48,"M. Taberner 4
+L. Schultz 4"
+6,4/24/2023,Melbourne,Richmond,56418,82,48,T. McDonald 3
+6,4/25/2023,Hawthorn,Adelaide,9007,102,99,"R. Thilthorpe 5
+J. Koschitzke 5"
+6,4/25/2023,Collingwood,Essendon,78113,85,109,A. McDonald-Tipungwuti 5
+6,4/25/2023,Port Adelaide,St Kilda,33125,93,39,"S. Motlop 3
+O. Fantasia 3"
+7,4/30/2023,Richmond,Western Bulldogs,52402,77,55,"A. Naughton 3
+T. Lynch 3
+S. Bolton 3"
+7,5/1/2023,Adelaide,GWS,28853,39,106,J. Hogan 4
+7,5/1/2023,Collingwood,Gold Coast,24397,55,79,"B. Mihocek 4
+J. Corbett 4"
+7,5/1/2023,St Kilda,Hawthorn,26433,128,59,J. Higgins 4
+7,5/1/2023,Sydney,Geelong,29123,90,88,H. McLean 4
+7,5/1/2023,Brisbane,Port Adelaide,20007,93,44,C. Cameron 4
+7,5/2/2023,North Melbourne,Melbourne,6009,73,103,B. Fritsch 6
+7,5/2/2023,West Coast,Fremantle,,132,73,-
+7,5/2/2023,Essendon,Carlton,57447,107,123,C. Hooker 5
+8,5/7/2023,Richmond,Geelong,54857,63,126,J. Cameron 6
+8,5/8/2023,Gold Coast,St Kilda,9271,54,63,B. King 3
+8,5/8/2023,GWS,Essendon,8526,107,105,"K. Langford 3
+J. Finlayson 3"
+8,5/8/2023,North Melbourne,Collingwood,22329,76,94,J. De Goey 6
+8,5/8/2023,Port Adelaide,Adelaide,43069,87,38,T. Marshall 3
+8,5/8/2023,Melbourne,Sydney,35567,67,58,T. McDonald 4
+8,5/9/2023,Hawthorn,West Coast,15277,60,98,B. Ah Chee 4
+8,5/9/2023,Western Bulldogs,Carlton,27663,107,91,"E. Betts 5
+J. Bruce 5"
+8,5/9/2023,Brisbane,Fremantle,15403,95,71,C. Cameron 3
+9,5/14/2023,St Kilda,Geelong,26712,47,68,-
+9,5/15/2023,Sydney,Collingwood,31448,72,42,I. Heeney 3
+9,5/15/2023,Hawthorn,North Melbourne,9121,80,87,C. Zurhaar 4
+9,5/15/2023,Gold Coast,Brisbane,12636,51,124,D. McStay 4
+9,5/15/2023,Port Adelaide,Western Bulldogs,32787,77,96,A. Naughton 4
+9,5/15/2023,Richmond,GWS,18798,87,83,"D. Martin 4
+J. Hogan 4"
+9,5/16/2023,Essendon,Fremantle,26357,68,61,M. Taberner 4
+9,5/16/2023,West Coast,Adelaide,43427,106,76,J. Darling 5
+9,5/16/2023,Melbourne,Carlton,38581,94,68,"H. McKay 3
+T. McDonald 3
+B. Fritsch 3"
+10,5/21/2023,Brisbane,Richmond,31127,102,74,"E. Hipwood 4
+Z. Bailey 4"
+10,5/22/2023,Carlton,Hawthorn,45741,86,63,L. Breust 3
+10,5/22/2023,Geelong,Gold Coast,22055,91,57,"J. Cameron 3
+B. King 3"
+10,5/22/2023,Adelaide,Melbourne,31373,96,95,"T. Walker 3
+C. Oliver 3"
+10,5/22/2023,Fremantle,Sydney,29134,86,84,L. Franklin 6
+10,5/22/2023,Western Bulldogs,St Kilda,28720,144,33,A. Naughton 5
+10,5/23/2023,GWS,West Coast,9046,93,77,J. Finlayson 3
+10,5/23/2023,Collingwood,Port Adelaide,23415,58,59,"B. McCreery 3
+R. Gray 3"
+10,5/23/2023,Essendon,North Melbourne,33121,141,69,-
+11,5/28/2023,Western Bulldogs,Melbourne,,59,87,"J. Bruce 3
+T. McDonald 3
+B. Fritsch 3"
+11,5/29/2023,Collingwood,Geelong,,51,61,T. Hawkins 3
+11,5/29/2023,Brisbane,GWS,22038,129,65,M. Robinson 4
+11,5/29/2023,St Kilda,North Melbourne,,88,68,M. Wood 3
+11,5/29/2023,West Coast,Essendon,41883,71,87,"J. Stringer 3
+J. Kennedy 3"
+11,5/29/2023,Gold Coast,Hawthorn,1241,113,76,"B. King 4
+I. Rankine 4"
+11,5/30/2023,Richmond,Adelaide,4236,111,83,J. Riewoldt 5
+11,5/30/2023,Sydney,Carlton,29882,100,78,-
+11,5/30/2023,Port Adelaide,Fremantle,26759,115,69,"C. Dixon 3
+S. Powell-Pepper 3"
+12,6/4/2023,Melbourne,Brisbane,3772,97,75,Z. Bailey 4
+12,6/5/2023,Sydney,St Kilda,19020,92,83,W. Hayward 3
+12,6/5/2023,Adelaide,Collingwood,30446,73,78,J. Elliott 6
+12,6/5/2023,Essendon,Richmond,55656,84,123,-
+12,6/6/2023,Carlton,West Coast,5137,73,95,L. Ryan 4
+12,6/6/2023,Fremantle,Western Bulldogs,32875,65,93,J. Treacy 3
+13,6/10/2023,Port Adelaide,Geelong,28718,91,112,"J. Cameron 5
+C. Rozee 5"
+13,6/11/2023,Sydney,Hawthorn,25904,51,89,-
+13,6/12/2023,Fremantle,Gold Coast,27318,76,49,-
+13,6/12/2023,St Kilda,Adelaide,5969,60,66,R. Thilthorpe 3
+13,6/13/2023,North Melbourne,GWS,3462,94,94,-
+13,6/13/2023,West Coast,Richmond,50834,85,81,J. Kennedy 4
+13,6/14/2023,Melbourne,Collingwood,16453,63,80,D. Cameron 4
+14,6/18/2023,Geelong,Western Bulldogs,6583,83,78,J. Bruce 3
+14,6/19/2023,Gold Coast,Port Adelaide,7117,31,81,C. Rozee 3
+14,6/19/2023,North Melbourne,Brisbane,5060,45,68,N. Larkey 3
+14,6/19/2023,GWS,Carlton,7035,102,66,J. Finlayson 5
+14,6/20/2023,Hawthorn,Essendon,14834,73,86,J. Stringer 4
+15,6/24/2023,Brisbane,Geelong,29024,94,50,J. Daniher 4
+15,6/25/2023,Richmond,St Kilda,14787,22,62,"D. McKenzie 2
+M. King 2"
+15,6/26/2023,Collingwood,Fremantle,11570,79,91,"R. Lobb 3
+L. Schultz 3"
+15,6/26/2023,North Melbourne,Gold Coast,6719,72,63,"N. Larkey 3
+J. Corbett 3"
+15,6/26/2023,Port Adelaide,Sydney,29631,81,71,L. Franklin 4
+15,6/26/2023,Essendon,Melbourne,19414,57,68,-
+15,6/27/2023,GWS,Hawthorn,9897,72,90,D. Moore 4
+15,6/27/2023,West Coast,Western Bulldogs,,43,98,A. Naughton 4
+15,6/27/2023,Carlton,Adelaide,14930,83,73,"T. Walker 3
+E. Betts 3"
+16,7/1/2023,Gold Coast,Richmond,9327,77,67,T. Lynch 5
+16,7/2/2023,Geelong,Essendon,15579,98,57,T. Hawkins 6
+16,7/3/2023,Melbourne,GWS,16963,55,64,"B. Fritsch 3
+T. Greene 3"
+16,7/3/2023,Adelaide,Brisbane,16178,59,111,L. McCarthy 4
+16,7/3/2023,Hawthorn,Port Adelaide,18251,53,87,C. Dixon 4
+16,7/3/2023,Fremantle,Carlton,12103,64,80,H. McKay 3
+16,7/4/2023,Sydney,West Coast,9520,118,26,"L. Franklin 3
+I. Heeney 3"
+16,7/4/2023,Collingwood,St Kilda,18082,61,70,-
+16,7/4/2023,Western Bulldogs,North Melbourne,18216,108,79,"C. Weightman 4
+C. Zurhaar 4"
+17,7/8/2023,Port Adelaide,Melbourne,30908,55,86,"T. McDonald 3
+C. Petracca 3
+K. Pickett 3"
+17,7/9/2023,Essendon,Adelaide,23604,84,21,A. Perkins 3
+17,7/10/2023,Hawthorn,Fremantle,9111,46,108,R. Lobb 4
+17,7/10/2023,Carlton,Geelong,31834,44,70,"H. McKay 2
+S. Walsh 2
+Z. Tuohy 2"
+17,7/10/2023,Brisbane,St Kilda,9075,63,95,"M. King 3
+D. Zorko 3"
+17,7/11/2023,GWS,Gold Coast,2952,64,65,T. Greene 3
+17,7/11/2023,Western Bulldogs,Sydney,24817,60,79,J. Dawson 3
+17,7/11/2023,Richmond,Collingwood,29437,71,87,"J. Elliott 3
+T. Lynch 3"
+17,7/12/2023,West Coast,North Melbourne,30515,60,70,N. Larkey 3
+18,7/15/2023,Fremantle,Geelong,35271,31,100,T. Hawkins 4
+18,7/16/2023,Richmond,Brisbane,4119,106,86,J. Riewoldt 6
+18,7/17/2023,Melbourne,Hawthorn,,79,79,"L. Breust 3
+B. Fritsch 3"
+18,7/17/2023,Gold Coast,Western Bulldogs,8244,79,90,-
+18,7/17/2023,St Kilda,Port Adelaide,,61,74,M. Georgiades 4
+18,7/18/2023,North Melbourne,Essendon,5114,74,92,J. Stringer 4
+18,7/18/2023,Collingwood,Carlton,,62,91,H. McKay 4
+18,7/18/2023,Adelaide,West Coast,24554,56,98,J. Cripps 5
+18,7/18/2023,GWS,Sydney,2374,72,98,"L. Franklin 4
+T. Papley 4"
+19,7/23/2023,Port Adelaide,Collingwood,,97,69,C. Dixon 4
+19,7/24/2023,Carlton,North Melbourne,,77,116,N. Larkey 7
+19,7/24/2023,West Coast,St Kilda,43657,94,86,M. King 6
+19,7/24/2023,Brisbane,Gold Coast,16660,120,71,L. McCarthy 4
+19,7/24/2023,Melbourne,Western Bulldogs,,65,85,-
+19,7/24/2023,Adelaide,Hawthorn,,102,83,T. Walker 4
+19,7/25/2023,Sydney,Fremantle,2875,98,58,I. Heeney 5
+19,7/25/2023,Geelong,Richmond,,95,57,"T. Hawkins 4
+E. Ratugolea 4"
+19,7/25/2023,Essendon,GWS,2681,53,66,J. Hogan 2
+20,7/30/2023,St Kilda,Carlton,,81,112,H. McKay 5
+20,7/31/2023,Western Bulldogs,Adelaide,,105,56,-
+20,7/31/2023,North Melbourne,Geelong,8083,42,62,"G. Rohan 2
+C. Guthrie 2
+N. Larkey 2"
+20,7/31/2023,Collingwood,West Coast,,90,45,-
+20,8/1/2023,Gold Coast,Melbourne,,30,128,"B. Brown 4
+L. Jackson 4"
+20,8/1/2023,Hawthorn,Brisbane,5381,92,80,D. McStay 4
+20,8/1/2023,Fremantle,Richmond,24979,55,51,M. Taberner 3
+20,8/1/2023,Essendon,Sydney,,102,109,T. Papley 4
+20,8/1/2023,GWS,Port Adelaide,,73,100,C. Dixon 4
+21,8/6/2023,Geelong,GWS,,65,84,T. Greene 4
+21,8/7/2023,Carlton,Gold Coast,,57,76,"J. Honey 2
+J. Townsend 2
+T. Miller 2"
+21,8/7/2023,Richmond,North Melbourne,,89,56,C. Zurhaar 4
+21,8/7/2023,Adelaide,Port Adelaide,14736,51,55,"N. McHenry 2
+Z. Butters 2"
+21,8/7/2023,St Kilda,Sydney,,93,64,J. Higgins 4
+21,8/8/2023,Hawthorn,Collingwood,,97,78,"J. Ginnivan 3
+J. Koschitzke 3"
+21,8/8/2023,Fremantle,Brisbane,29589,54,118,J. Daniher 4
+21,8/8/2023,Western Bulldogs,Essendon,,84,97,P. Wright 7
+21,8/9/2023,West Coast,Melbourne,31584,63,72,B. Brown 3
+22,8/13/2023,GWS,Richmond,,106,67,T. Taranto 4
+22,8/14/2023,Hawthorn,Western Bulldogs,7822,64,37,"C. Weightman 2
+J. Koschitzke 2"
+22,8/14/2023,Port Adelaide,Carlton,13943,140,45,C. Dixon 4
+22,8/14/2023,Geelong,St Kilda,,85,71,J. Cameron 4
+22,8/14/2023,Brisbane,Collingwood,15146,142,57,C. Cameron 6
+22,8/14/2023,North Melbourne,Sydney,,77,91,"C. Zurhaar 3
+W. Hayward 3"
+22,8/15/2023,Melbourne,Adelaide,,104,63,B. Fritsch 7
+22,8/15/2023,Fremantle,West Coast,51692,79,64,"M. Taberner 3
+J. Kennedy 3
+L. Ryan 3"
+22,8/15/2023,Gold Coast,Essendon,,30,98,J. Stringer 5
+23,8/20/2023,Western Bulldogs,Port Adelaide,,64,66,-
+23,8/21/2023,Richmond,Hawthorn,,83,83,"T. Brockman 3
+J. Riewoldt 3
+T. Lynch 3"
+23,8/21/2023,Sydney,Gold Coast,,136,49,L. Franklin 6
+23,8/21/2023,Brisbane,West Coast,21845,125,87,J. Daniher 4
+23,8/21/2023,Geelong,Melbourne,,77,81,T. Hawkins 4
+23,8/21/2023,Carlton,GWS,,75,89,E. Curnow 4
+23,8/22/2023,St Kilda,Fremantle,3082,107,49,C. Sharman 4
+23,8/22/2023,Essendon,Collingwood,,102,64,"J. Elliott 4
+P. Wright 4
+A. Waterman 4"
+23,8/22/2023,Adelaide,North Melbourne,13103,98,54,"S. McAdam 3
+N. Larkey 3"
